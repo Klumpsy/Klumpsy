@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Klumpsy
 - 👀 I’m interested in Learning code!
-- 🌱 I’m currently learning JavaScript + React!
+- 🌱 I’m currently learning Symfony/Twig/PHP!
 - 💞️ I’m looking to collaborate on Projects so I can learn more!
 - 📫 You can DM me!
 
